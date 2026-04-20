@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Data (CIFAR-10 is ~170 MB)
+data/
+*.tar.gz
+
+# Outputs - keep folder structure but not artefacts
+outputs/*.pt
+outputs/*.png
+outputs/*.json
+outputs/sanity_digits/*.png
+!outputs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor/tool config
+.claude/
