@@ -116,5 +116,4 @@ points of sparsity at equal accuracy.
 ## Author
 
 Shiva (Gokul Shiva) — B.Tech AI, SRM Institute of Science and Technology, Chennai
-Automation & AI Intern, Tube Products of India (Murugappa Group)
 GitHub: [Shiva085000](https://github.com/Shiva085000)
